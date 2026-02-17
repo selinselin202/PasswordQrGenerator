@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9m4nrjVj6xo=",
+  "success": true,
+  "projectFilePath": "/Users/esranur/java/PasswordQrGenerator/PasswordQrGenerator.csproj",
+  "expectedPackageFiles": [
+    "/Users/esranur/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/esranur/.nuget/packages/qrcoder/1.7.0/qrcoder.1.7.0.nupkg.sha512",
+    "/Users/esranur/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
